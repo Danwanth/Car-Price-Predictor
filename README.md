@@ -1,6 +1,8 @@
 # Car Price Predictor
 
-DEPLOYED SITE URL:https://dancarpricepred.streamlit.app/
+# 🔗 Application
+
+[Deployed Streamlit Application](https://dancarpricepred.streamlit.app/)
 
 A Machine Learning based web application that predicts the selling price of a used car using various car features such as fuel type, transmission, engine capacity, mileage, kilometers driven, and more.
 
