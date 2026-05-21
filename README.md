@@ -1,9 +1,5 @@
 # Car Price Predictor
 
-# 🔗 Application
-
-[Deployed Streamlit Application](https://dancarpricepred.streamlit.app/)
-
 A Machine Learning based web application that predicts the selling price of a used car using various car features such as fuel type, transmission, engine capacity, mileage, kilometers driven, and more.
 
 Built using:
@@ -40,6 +36,12 @@ Built using:
 # Sample
 
 <img width="467" height="713" alt="image" src="https://github.com/user-attachments/assets/c859500f-fac9-4c35-8e38-423f5425842d" />
+
+---
+
+# 🔗 Deployed Site Link
+
+[Deployed Streamlit Application](https://dancarpricepred.streamlit.app/)
 
 ---
 
