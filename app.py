@@ -80,6 +80,6 @@ input_data = input_data.reindex(columns=model_columns, fill_value=0)
 # Predict
 if st.button("Predict Price"):
 
-    prediction = np.exp( model.predict(input_data)[0])
+    prediction = np.expm1( model.predict(input_data)[0])
 
     st.success(f"Estimated Car Price: ₹ {prediction:,.2f}")
