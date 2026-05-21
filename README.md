@@ -41,7 +41,7 @@ Built using:
 
 # 🔗 Deployed Site Link
 
-[Deployed Streamlit Application](https://dancarpricepred.streamlit.app/)
+[Dan's Car Price Predictor](https://dancarpricepred.streamlit.app/)
 
 ---
 
